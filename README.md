@@ -1,20 +1,5 @@
-# project-x
+### Pokemon
 
-## Build Setup
+I was a kid during the 90s when Pokemon was at it's peak and virtually every child was obsessed with it. Now, 22 years later, most of those children have grown out of it, but I never did. It's a franchise whose primary audience is children, so what do you see in it that keeps you interested as an adult?
 
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+[Demo](https://pokemonwebapp.netlify.app/)
